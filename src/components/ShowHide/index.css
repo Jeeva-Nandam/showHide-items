@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg {
+  background-color: #fa7257;
+  height: 50vh;
+}
+
+.firstName-bg {
+  background-color: #fddddb;
+  height: 100px;
+  width: 100px;
+}
+.lastName-bg {
+  background-color: #fddddb;
+  height: 100px;
+  width: 100px;
+}
+
+.flex-align{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
